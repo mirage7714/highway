@@ -5,4 +5,4 @@
 <p>不過原始旅次資料還是可以用來進行一些統計與分析</p>
 
 <p>最後利用<a href="https://public.tableau.com/views/highway_statistics/Dashboard1?:embed=y&:display_count=yes&publish=yes">Tableau</a>進行視覺化的呈現</p>
-<img src="https://drive.google.com/open?id=1n1pQazxmG1xnZFjcAHbYhAl_JmULwivm"></img>
+<img src="https://github.com/mirage7714/highway/blob/master/tableau.png"></img>
