@@ -14,7 +14,7 @@
 <li>視覺化: 最後利用<a href="https://public.tableau.com/views/highway_statistics/Dashboard1?:embed=y&:display_count=yes&publish=yes">Tableau</a>進行視覺化的呈現</li>
 <img src="tableau.png"></img>
 
-<h2>超速取締役</h2>
+<h2>超速取締</h2>
 <p>最近新聞中有提到政府有意從高速公路資料中進行取締超速案件，究竟這個方法到底可不可行呢?</p>
 <p>這邊來實作一下，看到底成效如何</p>
 <a href="http://nbviewer.jupyter.org/github/mirage7714/highway/src/highway_overspeed_discussion.ipynb">點我</a>
